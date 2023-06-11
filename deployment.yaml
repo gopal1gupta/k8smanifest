@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: gopalgupta123456789/week4:35
+        image: gopalgupta123456789/week4:1
         ports:
         - containerPort: 80
 
