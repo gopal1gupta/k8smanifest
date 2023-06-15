@@ -13,4 +13,4 @@
 
 ### This repo belong to the manifest repo of the above project for continuous deployment using ArgoCD.
 
-Blog Link --> 
+Blog Link --> https://devopswithgopal.hashnode.dev/deploy-a-web-app-to-an-aks-cluster-using-aws-codepipeline-and-argocd
